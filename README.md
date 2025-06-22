@@ -28,7 +28,7 @@ Conheci a programação através de um amigo que me indicou, e a partir disso me
 
 <div>
   <a href="rnascimentojosue@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/> 
-  <a href="https://www.linkedin.com/in/josue-nascimentodev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/> 
+  <a href="https://www.linkedin.com/in/josue-nascimentodev/(https://www.linkedin.com/in/josu%C3%A9-nascimentodev/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/> 
 </div>
     
  ##
